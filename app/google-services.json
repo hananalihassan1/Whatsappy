@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036472096809",
+    "firebase_url": "https://whatsappy-40356.firebaseio.com",
+    "project_id": "whatsappy-40356",
+    "storage_bucket": "whatsappy-40356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036472096809:android:1db19d3e2667a126",
+        "android_client_info": {
+          "package_name": "com.hanan_ali.whatsappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036472096809-141n6lb2o1kr6a6bqhlsa7mhl9gni5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPUeIZV_56Xs8HJ0C1jB3Kf-J98A1aHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036472096809-141n6lb2o1kr6a6bqhlsa7mhl9gni5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
